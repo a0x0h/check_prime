@@ -5,5 +5,3 @@ def is_prime(num):
         if num%i == 0:
             return False
     return True
-
-print(is_prime())
